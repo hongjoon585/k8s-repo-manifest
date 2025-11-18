@@ -14,7 +14,8 @@ spec:
     spec:
       containers:
       - name: devweb-containers
-        image: hongjoonyoung/devweb:1.0
+        image: hongjoonyoung/devweb:2.0
         ports:
 
         - containerPort: 80
+
